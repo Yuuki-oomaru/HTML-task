@@ -57,14 +57,23 @@ main{
 }
 @media screen and (max-width:768px){
 main{
-  width: 90%;
+  width: 100%;
 }
 .contents-box{
   float: none;
   margin: auto;
   margin-bottom: 20px;
+  width: 90%;
 }
-
+.img1{
+height: 300px;
+}
+.img2{
+height: 300px;
+}
+.img3{
+  height: 300px;
+}
 .contents-box:nth-child(3){
   margin: auto;
 }
